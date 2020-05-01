@@ -1,0 +1,73 @@
+body, div {
+	border: 0;
+	font:italic;
+	font-size:100%;
+	margin:10;
+	padding:0;
+	vertical-align:baseline;
+}
+/*body*/
+body {
+	border: 3px solid black;
+	padding: 30px; 
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+article, section {
+	display: block;
+	justify-content: space-around;
+	font-size: 16px;
+	} 
+p {
+	font-size: 1em;
+	line-height: 1.5em;
+	margin-bottom: 20px;
+	color: #222;
+}
+
+body { 
+	display: block;
+	font-family: "Times New Roman";
+	margin-right: 10px 50px 10px 50px;
+}
+#name {
+	float: center;
+
+}
+#name h2 {
+	font-size: 2em;
+	margin-left: 2px;
+}
+
+#photo {
+	width: 10%;
+	float: left;
+	margin-right: 100px;
+	margin-bottom: 0px;
+}
+.data {
+	float: right;
+}
+
+
+.info {
+	margin-top: 100px;
+	font-size: 1.25em;
+}
+section {
+	padding: 15px 0 0;
+	}
+
+.title{
+	margin-top: 0%;
+	text-align: center;
+}
+
+
+.content p {
+	margin-top: 0px;
+	font-style: italic;
+}
+
+

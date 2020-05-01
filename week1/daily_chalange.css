@@ -1,0 +1,29 @@
+
+
+body {
+	background-image: url(https://thoughtlife.files.wordpress.com/2012/01/memorial-card-gradient-background-white-to-blue.jpg);
+}
+/*body*/
+
+img {
+	float: left;
+	margin: 30px 30px 30px 30px;
+}
+
+h1, p {
+	text-align: center;
+}
+
+p {
+	font-style: italic; 
+	font-weight: bold;
+	font-size: 130%;
+}
+
+ol, ul {
+	font-style: italic;
+} 
+
+ h2 {
+ 	font-family: cursive;
+ }

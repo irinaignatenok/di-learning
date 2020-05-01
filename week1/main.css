@@ -1,0 +1,13 @@
+ body {
+    font-family: 'Raleway', sans-serif;
+    background-repeat: no-repeat;
+
+ }
+
+ .contain {
+    background-image: url ("headerback.jpg");
+      background-size: cover;
+       position: absolute;
+    text-align: center;
+}
+ }

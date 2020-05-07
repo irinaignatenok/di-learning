@@ -1,8 +1,11 @@
-let sen = "this course is not bad"
-let a = "not bad"
-if (sen > a) {
-    console.log("this course is good")
-} else { 
-    console.log("this course is not bad") 
+let str = "This apartment is not so bad"
+let not = str.indexOf("not");
+
+let bad = str.indexOf("bad");
+
+if (not < bad) {
+    str.replace("not so bad", "good");
+} else {
+    console.log(str);
 }
-this course is good
+"This apartment is good"

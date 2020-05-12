@@ -7,7 +7,7 @@ let sixth_line = "* frame *";
 
 
 let pic = [first_line, second_line, third_line, fourth_line, fifth_line, sixth_line, first_line];
-people.forEach(function(string){
+pic.forEach(function(string){
     console.log(string);
 }
 )
